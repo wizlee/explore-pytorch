@@ -1,0 +1,3 @@
+[submodule "torch-cam"]
+	path = torch-cam
+	url = git@github.com:frgfm/torch-cam.git
