@@ -8,7 +8,7 @@
     "python.defaultInterpreterPath": "C:\\Users\\wizlee\\Downloads\\tools\\miniconda3\\envs\\phd\\python.exe",
     "terminal.integrated.cwd": "${workspaceFolder}/pytorch-custom-model",
     "terminal.integrated.env.windows": {
-      "BASH_INIT_COMMAND": "conda activate phd"
+      "BASH_INIT_COMMAND": "conda activate pytorch"
     }
   }
 }
