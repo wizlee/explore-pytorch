@@ -136,6 +136,8 @@ conda-dist/
 
 # datasets
 datasets/
+**data/
+covidxct.zip
 
 # personal pdf
 *edu.my.pdf
