@@ -138,6 +138,8 @@ conda-dist/
 datasets/
 **data/
 covidxct.zip
+**log/
+**result/
 
 # personal pdf
 *edu.my.pdf
