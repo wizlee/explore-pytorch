@@ -8,7 +8,8 @@
     "terminal.integrated.cwd": "${workspaceFolder}/pytorch-custom-model",
     "terminal.integrated.env.windows": {
       "BASH_INIT_COMMAND": "conda activate pytorch"
-    }
+    },
+    "notebook.output.textLineLimit": 10000
   },
   "launch": {
     "version": "0.2.0",
