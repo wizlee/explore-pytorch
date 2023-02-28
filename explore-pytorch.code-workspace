@@ -1,15 +1,16 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
+  "folders": [
+    {
+      "path": "."
+    }
   ],
   "settings": {
     "terminal.integrated.cwd": "${workspaceFolder}/pytorch-custom-model",
     "terminal.integrated.env.windows": {
       "BASH_INIT_COMMAND": "conda activate pytorch"
     },
-    "notebook.output.textLineLimit": 10000
+    "notebook.output.textLineLimit": 10000,
+    "editor.tabSize": 4 // mainly to cater for kaggle or colab notebook
   },
   "launch": {
     "version": "0.2.0",
